@@ -1,6 +1,7 @@
 Node and Express Application 
 
-Doctors Endpoint: \n
+Doctors Endpoint:
+
 Staff Endpoint: 
 Patients Endpoint: 
 Appointments Endpoint: 
