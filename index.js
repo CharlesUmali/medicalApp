@@ -13,7 +13,7 @@ app.use("/Staff", Staff);
 app.use("/Appointments", Appointments);
 
 app.get("/", (req, res) => {
-    res.send("Hello World");
+    res.send("Hospital Database");
 });
 
 app.listen(port, () => {
